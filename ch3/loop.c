@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int test(void) {
 	// C언어 반복문
 	// for문
 	for (int i = 1; i <= 10; i++) {
