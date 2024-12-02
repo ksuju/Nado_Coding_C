@@ -1,6 +1,6 @@
 #include <stdio.h>;
 
-int main(void) {
+int nest(void) {
 	// 이중반복문 실습 1. 구구단 출력
 	for (int i=1; i<=9; i++) {
 		printf("%d단\n", i);
