@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int condition(void) {
 	int age = 15;
 	if (age >= 8 && age <= 13) {
 		printf("초등학생 입니다.\n");

@@ -130,6 +130,7 @@
     <ClCompile Include="condition.c" />
     <ClCompile Include="loop.c" />
     <ClCompile Include="nested_loop.c" />
+    <ClCompile Include="switch.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
