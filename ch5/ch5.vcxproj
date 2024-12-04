@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cebf8fee-fba6-4954-9010-59eb129e207f}</ProjectGuid>
-    <RootNamespace>ch3</RootNamespace>
+    <ProjectGuid>{6cace429-814d-4072-8535-3d90c365e85b}</ProjectGuid>
+    <RootNamespace>ch5</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4.5_프로젝트.c" />
-    <ClCompile Include="condition.c" />
-    <ClCompile Include="loop.c" />
-    <ClCompile Include="nested_loop.c" />
-    <ClCompile Include="switch.c" />
+    <ClCompile Include="function.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

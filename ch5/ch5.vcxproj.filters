@@ -15,19 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="loop.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="nested_loop.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="condition.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="switch.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4.5_프로젝트.c">
+    <ClCompile Include="function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
