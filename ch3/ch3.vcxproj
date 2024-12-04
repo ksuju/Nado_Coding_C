@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="4.5_프로젝트.c" />
     <ClCompile Include="condition.c" />
+    <ClCompile Include="function.c" />
     <ClCompile Include="loop.c" />
     <ClCompile Include="nested_loop.c" />
     <ClCompile Include="switch.c" />

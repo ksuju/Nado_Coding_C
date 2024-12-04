@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void) {
+int switchStudy(void) {
 	// 난수 생성하기 > rand()
 	int ranNum = rand() % 3 + 1; // 1~3 범위의 난수 생성
 	
