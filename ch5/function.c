@@ -2,7 +2,7 @@
 void p(int num);
 int add(int num1, int num2);
 
-int main(void) {
+int functionStudy(void) {
 	int num = 2;
 	p(num);
 
