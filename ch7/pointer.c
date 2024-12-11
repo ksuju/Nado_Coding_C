@@ -4,7 +4,7 @@ static void swap(int a, int b);	// ½Ç½À1-1.
 static void swap_address(int* a, int* b);	// ½Ç½À1-2.
 
 static void changeArray(int* arr);	// ½Ç½À 2
-int main(void) {
+int pointer(void) {
 	int Ã¶¼ö = 1;
 	int ¿µÈñ = 2;
 	int ¹Î¼ö = 3;
