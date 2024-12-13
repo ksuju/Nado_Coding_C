@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int arrayarray(void) {
 	int arr3[4][2] = {
 		{1, 2},
 		{3, 4},
