@@ -18,5 +18,8 @@
     <ClCompile Include="struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9.5_프로젝트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

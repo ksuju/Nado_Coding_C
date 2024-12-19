@@ -10,7 +10,7 @@ struct GameInfo {	// 구조체 정의
 	struct GameInfo* friendGame;	// 구조체의 멤버로 구조체 포인터 설정
 };
 
-int main(void) {
+int stst(void) {
 	char* name = "나도게임";
 	int year = 2022;
 	int price = 50;
