@@ -2,7 +2,7 @@
 #include <stdio.h>
 #define MAX 10000	// 코드 내에서 MAX라는 값이 사용되면 숫자 10000으로 치환, 배열을 선언할 때 사용함
 
-int main(void) {
+int filele(void) {
 	// fputs() 함수로 파일 쓰기
 	// 1. fopen() 함수를 통해 파일에 대한 정보를 담는다.
 	// FILE * 포인터명 = fopen(파일명, 파일모드);
